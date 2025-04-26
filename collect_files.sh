@@ -27,8 +27,6 @@ find "$input_dir" "${val[@]}" -type f | while IFS= read -r file; do
     arr[$base]=0                
   fi
 
-
-
   cp "$file" "$output_dir/$base"
   
 done

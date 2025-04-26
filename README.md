@@ -14,7 +14,7 @@
 1) https://habr.com/ru/companies/ruvds/articles/325522/ конечно же это хабр, там годно
 2) чтото помогало гпт, например ошибки непонятные, как и всем, семинарист сказал, что важно понимать код
 
-
+ghbsdvs
 `./collect_files.sh /home/input_dir /home/output_dir`
 
 `/home/output_dir` изначально пустая.

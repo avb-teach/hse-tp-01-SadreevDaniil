@@ -16,6 +16,7 @@ mkdir -p "$output_dir"
 
 declare -A arr
 
+
 find "$input_dir" "${val[@]}" -type f | while IFS= read -r file; do
 
   base=$(basename "$file")       

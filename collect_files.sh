@@ -11,6 +11,7 @@ else
   val=() 
 fi
 
+
 mkdir -p "$output_dir"
 
 declare -A arr
